@@ -34,7 +34,7 @@ postings <- postings %>%
 ########################################################### 
 # Save data as CSV
 ########################################################### ----
-write_csv(postings, "yk_job_postings.csv")
+write_csv(postings %>% select(-all_locations, -department1, -close_day), "yk_job_postings.csv")
 
 
 ########################################################### 

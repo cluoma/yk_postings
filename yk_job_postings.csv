@@ -1,2 +1,441 @@
-id,title,department,location,close_date,scrape_date,close_day,all_locations,department1
-20749,Technology Infrastructure Architect,Education - ITSS,"Whitehorse, YT, CA Y1A 2C6",2020-03-26,NA,Thu,
+id,title,department,location,close_date,scrape_date
+20749,Technology Infrastructure Architect,Education - ITSS,"Whitehorse, YT, CA Y1A 2C6",2020-03-26,NA
+20980,First Nation Relations and Community Advisor,"Energy, Mines & Resources - CMI Program Standards, Planning and Monitoring","Whitehorse, YT, CA Y1A 2C6",2020-03-19,NA
+20964,Corporate Registration Analyst,Community Services - Corp Policy & Consumer Affairs - Corporate Affairs - Operations,"Whitehorse, YT, CA Y1A 2C6",2020-03-18,NA
+20962,Director - Respectful Workplace Office,Public Service Commission - Employee Relations - Respectful Workplace Office,"Whitehorse, YT, CA Y1A 2C6",2020-03-20,NA
+20935,Case Manager,Workers Compensation - WCB - Claimant Services,"Whitehorse, YT, CA Y1A 2C6",2020-03-17,NA
+20953,Water and Wastewater Supervisor,Community Services - CS-CD-CO DC Plant,"Dawson City, YT, CA Y0B 1G0",2020-03-17,NA
+20958,Occupational Therapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-03-17,NA
+20936,Senior Diversity and Inclusion Advisor,Public Service Commission - People & Culture - Diversity & Inclusion,"Whitehorse, YT, CA Y1A 2C6",2020-03-16,NA
+20568,Network Administrator,Health & Social Services - Finance Systems and Administration,"Whitehorse, YT, CA Y1A 2C6",2020-03-12,NA
+20879,Nursing Home Attendant,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-03-27,NA
+20626,Regional Social Worker,Health & Social Services - Regional Services,"Carcross, YT, CA Y0B 1B0Dawson City, YT, CA Y0B 1G0Faro, YT, CA Y0B 1K0 (Primary)Haines Junction, YT, CA Y0B 1L0Whitehorse, YT, CA Y1A 2C6",2020-05-27,NA
+20410,Sign Shop Supervisor,Highways & Public Works - HPW-TMB-Sign Shop,"Whitehorse, YT, CA Y1A 2C6",2020-03-11,NA
+20860,Regional Economic Development Advisor,Economic Development - Regional Economic Development,"Whitehorse, YT, CA Y1A 2C6",2020-03-11,NA
+20864,Speech Language Pathologist,"Health & Social Services - Continuing Care, Thomson Centre - Therapies","Whitehorse, YT, CA Y1A 2C6",2020-05-26,NA
+20858,Immigration Officer,Economic Development - Immigration,"Whitehorse, YT, CA Y1A 2C6",2020-03-11,NA
+20715,Midwifery Consultant,"Health & Social Services - Community Health, Community Nursing Management","Whitehorse, YT, CA Y1A 2C6",2020-05-25,NA
+20688,Director - Community Relations and Engagement,Education - Community Relations & Engagement,"Whitehorse, YT, CA Y1A 2C6",2020-03-13,NA
+20723,Senior Transportation Planner,Highways & Public Works - TPB Administration for HPW-Transportation Planning Branch,"Whitehorse, YT, CA Y1A 2C6",2020-03-12,NA
+20748,Cook,Health & Social Services - MWSU – Program Management,"Whitehorse, YT, CA Y1A 2C6",2020-03-06,NA
+20692,Yukon Beringia Interpretive Centre Guide,Tourism & Culture - Yukon Beringia Interpretive Centre,"Whitehorse, YT, CA Y1A 2C6",2020-03-05,NA
+20720,Senior Policy Advisor,Yukon Development Corp - Program Delivery,"Whitehorse, YT, CA Y1A 2C6",2020-03-05,NA
+20766,Coordinator - Teacher Recruitment,Education - Human Resources.,"Whitehorse, YT, CA Y1A 2C6",2020-03-05,NA
+20667,Clinical Counsellor - Mental Wellness & Substance Use,Health & Social Services - Mental Wellness and Substance Use – Client Services,"Whitehorse, YT, CA Y1A 2C6",2020-03-12,NA
+20759,Physiotherapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-05-25,NA
+20607,Manager - Court Services,Justice - Supreme & Territorial Courts,"Whitehorse, YT, CA Y1A 2C6",2020-03-05,NA
+20609,Primary Health Care Nurse,Health & Social Services - Community Nursing,"Carcross, YT, CA Y0B 1B0Carmacks, YT, CA Y0B 1C0Faro, YT, CA Y0B 1K0Haines Junction, YT, CA Y0B 1L0Mayo, YT, CA Y0B 1M0Old Crow, YT, CA Y0B 1N0Pelly Crossing, YT, CA Y0B 1P0Ross River, YT, CA Y0B 1S0Teslin, YT, CA Y0A 1B0Whitehorse, YT, CA Y1A 2C6 (Primary)",2020-05-12,NA
+20491,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Carcross Health Centre","Carcross, YT, CA Y0B 1B0",2020-05-04,NA
+20224,Administrative Assistant,YG - Yukon Government,"Beaver Creek, YT, CA Y0B 1A0Carcross, YT, CA Y0B 1B0Carmacks, YT, CA Y0B 1C0Dawson City, YT, CA Y0B 1G0Faro, YT, CA Y0B 1K0Haines Junction, YT, CA Y0B 1L0Mayo, YT, CA Y0B 1M0Old Crow, YT, CA Y0B 1N0Pelly Crossing, YT, CA Y0B 1P0Ross River, YT, CA Y0B 1S0Teslin, YT, CA Y0A 1B0Watson Lake, YT, CA Y0A 1C0Whitehorse, YT, CA Y1A 2C6 (Primary)",2020-04-30,NA
+20320,Nurse Practitioner,"Health & Social Services - Community Nursing, Mayo Health Centre","Mayo, YT, CA Y0B 1M0",2020-04-30,NA
+20301,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Ross River Health Centre","Ross River, YT, CA Y0B 1S0",2020-04-24,NA
+20183,Human Resource Consultant I&II,YG - Yukon Government,"Whitehorse, YT, CA Y1A 2C6",2020-04-30,NA
+20008,Primary Health Care Nurse,"Health & Social Services - Community Nursing, Faro Health Centre","Faro, YT, CA Y0B 1K0",2020-04-13,NA
+19937,Administrative - Library Clerk,Education - School Clerical Support,"Old Crow, YT, CA Y0B 1N0",2020-04-09,NA
+19905,Youth Engagement Worker,"Health & Social Services - F&CS Residential Services, Residential Youth Treatment","Whitehorse, YT, CA Y1A 2C6",2020-04-07,NA
+19796,Community Health Nurse,"Health & Social Services - Community Nursing, Dawson City Health Centre","Dawson City, YT, CA Y0B 1G0",2020-03-24,NA
+19700,Primary Health Care Nurse,Health & Social Services - Community Nursing,"Whitehorse, YT, CA Y1A 2C6",2020-03-19,NA
+19490,Support Worker,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-03-09,NA
+21030,Manager - Policy and Program Support,"Energy, Mines & Resources - Lands Program & Policy Support","Whitehorse, YT, CA Y1A 2C6",2020-03-27,NA
+21057,Family Information and Liaison and Policy Advisor,Justice - Victim Services - Operations,"Whitehorse, YT, CA Y1A 2C6",2020-03-24,NA
+21065,Communications Officer,Community Services - Protective Services - Fire Management - Pre-Suppression,"Whitehorse, YT, CA Y1A 2C6",2020-03-24,NA
+20979,Primary Care Paramedic,Community Services - Protective Services - Emergency Medical Services - Emergency Medical Services-Whitehorse,"Whitehorse, YT, CA Y1A 2C6",2020-03-24,NA
+21061,Heavy Equipment Operator II,Highways & Public Works - TM - Payroll Suspence,"Blanchard, YT, CA Y0B 1L0",2020-03-24,NA
+21063,Social Worker - Adoption,"Health & Social Services - Placement and Support, Adoption","Whitehorse, YT, CA Y1A 2C6",2020-06-10,NA
+21106,Network Administrator,"Executive Council Office - Finance, Administration & Systems","Whitehorse, YT, CA Y1A 2C6",2020-03-30,NA
+20667,Clinical Counsellor - Mental Wellness & Substance Use,Health & Social Services - Mental Wellness and Substance Use – Client Services,"Whitehorse, YT, CA Y1A 2C6",2020-03-26,NA
+21129,Heavy Equipment Operator I,Highways & Public Works - TM - Payroll Suspence,"Haines Junction, YT, CA Y0B 1L0",2020-03-26,NA
+21128,Director - Cultural Services,Tourism & Culture - Cultural Services Directorate,"Whitehorse, YT, CA Y1A 2C6",2020-04-02,NA
+21136,eServices Delivery Manager,Highways & Public Works - ICT - e-SERVICES,"Whitehorse, YT, CA Y1A 2C6",2020-03-27,NA
+21133,Director - Corporate Policy,Community Services - Corp Policy & Consumer Affairs - Policy - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-03-27,NA
+21165,Environmental Assessment Coordinator,Environment - ENV-MC-Environmental Assess,"Whitehorse, YT, CA Y1A 2C6",2020-03-27,NA
+21149,Community Mental Health Nurse,Health & Social Services - MWSU – Regional South – Watson Lake Hub,"Haines Junction, YT, CA Y0B 1L0Watson Lake, YT, CA Y0A 1C0 (Primary)",2020-06-12,NA
+21185,HRMS Analyst,Public Service Commission - Human Resources Management Systems,"Whitehorse, YT, CA Y1A 2C6",2020-03-27,NA
+21169,Park Attendant,Environment - ENV-NR-Parks Compliance Checks,"Watson Lake, YT, CA Y0A 1C0",2020-03-30,NA
+20980,First Nation Relations and Community Advisor,"Energy, Mines & Resources - CMI Program Standards, Planning and Monitoring","Whitehorse, YT, CA Y1A 2C6",2020-03-27,NA
+21252,Program Manager Whitehorse Emergency Shelter,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-04-09,NA
+21309,Supervisor Whitehorse Emergency Shelter,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-04-09,NA
+21321,Social Worker,"Health & Social Services - Continuing Care, Admin, Whistle Bend Care Facility","Whitehorse, YT, CA Y1A 2C6",2020-04-06,NA
+21133,Director - Corporate Policy,Community Services - Corp Policy & Consumer Affairs - Policy - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-04-17,NA
+20879,Nursing Home Attendant,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-04-27,NA
+21434,Senior Building Program Manager,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-04-16,NA
+21434,Senior Building Program Manager,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-04-21,NA
+21327,Compliance Officer,Highways & Public Works - TS - Weigh Scales,"Whitehorse, YT, CA Y1A 2C6",2020-04-17,NA
+21503,Systems and Administration Coordinator,"Health & Social Services - Continuing Care, Admin Copper Ridge Place","Whitehorse, YT, CA Y1A 2C6",2020-04-17,NA
+21473,Project Manager,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-04-27,NA
+21587,Intake Coordinator Admission and Assessment,"Health & Social Services - Intermediate and Community Care, Admin - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-04-22,NA
+21605,Home Care RN,"Health & Social Services - Intermediate and Community Care, Professional Services - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-07-03,NA
+21578,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-04-22,NA
+21608,Heavy Equipment Mechanic,Highways & Public Works - TM - Garage Operations Trade,"Whitehorse, YT, CA Y1A 2C6",2020-04-23,NA
+21665,Head - Accounting Operations,"Energy, Mines & Resources - Finance","Whitehorse, YT, CA Y1A 2C6",2020-04-28,NA
+21719,Labour Relations Advisor,Public Service Commission - Employee Relations - Labour Relations,"Whitehorse, YT, CA Y1A 2C6",2020-04-28,NA
+21362,Residential Care Worker,"Health & Social Services - F&CS Residential Services, Residential Youth Treatment","Whitehorse, YT, CA Y1A 2C6",2020-07-15,NA
+21742,Social Worker,"Health & Social Services - Family and Child Services, Child Protection","Whitehorse, YT, CA Y1A 2C6",2020-04-29,NA
+21133,Director - Corporate Policy,Community Services - Corp Policy & Consumer Affairs - Policy - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-05-01,NA
+21805,Social Worker,Health & Social Services - Mental Wellness and Substance Use – Client Services,"Whitehorse, YT, CA Y1A 2C6",2020-05-01,NA
+21883,Senior Advisor on Missing and Murdered Indigenous Women and Girls,Women's Directorate - Women's Directorate,"Whitehorse, YT, CA Y1A 2C6",2020-05-06,NA
+21873,Accounts Payable Clerk,Environment - Financial Services,"Whitehorse, YT, CA Y1A 2C6",2020-05-06,NA
+21953,Human Resource Service Representative,Public Service Commission - Human Resources Shared Services,"Whitehorse, YT, CA Y1A 2C6",2020-05-11,NA
+22005,Superintendent,Justice - Whitehorse Correctional Centre,"Whitehorse, YT, CA Y1A 2C6",2020-07-29,NA
+22015,Nursing Home Attendant,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-05-29,NA
+22018,Senior Consultation Advisor,Executive Council Office - Policy & Consultation,"Whitehorse, YT, CA Y1A 2C6",2020-05-20,NA
+22033,Custodial Worker,"Health & Social Services - Community Nursing, Old Crow Health Centre","Old Crow, YT, CA Y0B 1N0",2020-06-01,NA
+22091,Social Worker,"Health & Social Services - Continuing Care, Admin, Whistle Bend Care Facility","Whitehorse, YT, CA Y1A 2C6",2020-05-15,NA
+22124,Director - Respectful Workplace Office,Public Service Commission - Employee Relations - Respectful Workplace Office,"Whitehorse, YT, CA Y1A 2C6",2020-05-20,NA
+22152,Manager - Corporate Health and Safety,"Public Service Commission - Employee Relations - Health, Safety & Well Being","Whitehorse, YT, CA Y1A 2C6",2020-05-28,NA
+22156,Occupational Therapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-08-07,NA
+22160,Adult French Language Instructor,French Language Services Directorate,"Whitehorse, YT, CA Y1A 2C6",2020-05-22,NA
+22170,Home Care RN,"Health & Social Services - Intermediate and Community Care, Professional Services - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-08-07,NA
+22171,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Carcross Health Centre","Carcross, YT, CA Y0B 1B0",2020-05-25,NA
+22196,Superintendent,Education - Superintendents' Office,"Whitehorse, YT, CA Y1A 2C6",2020-05-26,NA
+22225,Support Services Manager,"Health & Social Services - Community Health, Community Nursing Management","Whitehorse, YT, CA Y1A 2C6",2020-05-27,NA
+22235,Managing Counsel - Litigation Group,Justice - Litigation Group,"Whitehorse, YT, CA Y1A 2C6",2020-06-03,NA
+22239,Manager - Liquor Store and Territorial Agent Services,Yukon Liquor Corporation - Dawson Liquor Store,"Dawson City, YT, CA Y0B 1G0",2020-05-27,NA
+22261,Community Health Nurse,"Health & Social Services - Community Nursing, Dawson City Health Centre","Dawson City, YT, CA Y0B 1G0",2020-08-14,NA
+22194,Building Maintenance Engineer,Highways & Public Works - Western Region,"Haines Junction, YT, CA Y0B 1L0",2020-05-28,NA
+22250,District Conservation Officer,Environment - ENV-MC-Regional Ops North,"Mayo, YT, CA Y0B 1M0",2020-05-28,NA
+22257,Warehouse Worker,Yukon Liquor Corporation - Distribution,"Whitehorse, YT, CA Y1A 2C6",2020-05-27,NA
+22302,Licensed Practical Nurse,Justice - Whitehorse Correctional Centre,"Whitehorse, YT, CA Y1A 2C6",2020-06-01,NA
+22289,Building Engineer,Highways & Public Works - Central Region,"Whitehorse, YT, CA Y1A 2C6",2020-06-02,NA
+22305,Director - Capital Development,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-06-09,NA
+22304,Disability Accommodation Consultant,"Public Service Commission - Employee Relations - Health, Safety & Well Being","Whitehorse, YT, CA Y1A 2C6",2020-06-02,NA
+22324,Project Manager - User Experience,Highways & Public Works - ICT - e-Services,"Whitehorse, YT, CA Y1A 2C6",2020-06-17,NA
+22305,Director - Capital Development,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-06-30,NA
+22352,Director - Finance and Risk Management,"Yukon Housing Corporation - Finance, Systems & Administration","Whitehorse, YT, CA Y1A 2C6",2020-06-04,NA
+22235,Managing Counsel - Litigation Group,Justice - Litigation Group,"Whitehorse, YT, CA Y1A 2C6",2020-06-10,NA
+22258,Network Administrator,Highways & Public Works - Information Management,"Whitehorse, YT, CA Y1A 2C6",2020-06-22,NA
+22358,Liquor Store Clerk,Yukon Liquor Corporation - Whitehorse Liquor Store,"Whitehorse, YT, CA Y1A 2C6",2020-06-05,NA
+22374,Project Manager,"Energy, Mines & Resources - Land Use","Whitehorse, YT, CA Y1A 2C6",2020-06-05,NA
+22387,Infection Control Nurse,"Health & Social Services - Continuing Care, Program Management","Whitehorse, YT, CA Y1A 2C6",2020-06-05,NA
+22366,Manager - Community Mental Wellness and Substance Use Programs,Health & Social Services - MWSU – Regional – Activity Management,"Whitehorse, YT, CA Y1A 2C6",2020-06-05,NA
+22381,Program Technician - Geospatial,Environment - ENV-Admin-Habitat & Planning,"Whitehorse, YT, CA Y1A 2C6",2020-06-05,NA
+22416,Bilingual HR Service Representative,Public Service Commission - Human Resources Shared Services,"Whitehorse, YT, CA Y1A 2C6",2020-06-08,NA
+22196,Superintendent,Education - Superintendents' Office,"Whitehorse, YT, CA Y1A 2C6",2020-06-09,NA
+22460,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Old Crow Health Centre","Old Crow, YT, CA Y0B 1N0",2020-08-26,NA
+22461,Primary Health Care Nurse,"Health & Social Services - Community Nursing, Mayo Health Centre","Mayo, YT, CA Y0B 1M0",2020-08-26,NA
+22439,Administrative Assistant,YG - Yukon Government,"Beaver Creek, YT, CA Y0B 1A0Carcross, YT, CA Y0B 1B0Carmacks, YT, CA Y0B 1C0Dawson City, YT, CA Y0B 1G0Faro, YT, CA Y0B 1K0Haines Junction, YT, CA Y0B 1L0Mayo, YT, CA Y0B 1M0Old Crow, YT, CA Y0B 1N0Pelly Crossing, YT, CA Y0B 1P0Ross River, YT, CA Y0B 1S0Teslin, YT, CA Y0A 1B0Watson Lake, YT, CA Y0A 1C0Whitehorse, YT, CA Y1A 2C6 (Primary)",2020-08-26,NA
+22400,Plumber,Highways & Public Works - Central Region,"Whitehorse, YT, CA Y1A 2C6",2020-06-10,NA
+22435,Technology Infrastructure Specialist,Education - ITSS,"Whitehorse, YT, CA Y1A 2C6",2020-06-10,NA
+22478,Director - Training Programs,Education - Training Program - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-06-10,NA
+22482,Manager - Policy,Highways & Public Works - CS - Policy,"Whitehorse, YT, CA Y1A 2C6",2020-06-10,NA
+22514,Environmental Health Officer,"Health & Social Services - Community Health, Environmental Health","Whitehorse, YT, CA Y1A 2C6",2020-06-11,NA
+22462,Policy Advisor,"Energy, Mines & Resources - Corporate Policy & Planning","Whitehorse, YT, CA Y1A 2C6",2020-06-11,NA
+22494,Community Development Advisor,Economic Development - Community Development,"Whitehorse, YT, CA Y1A 2C6",2020-06-11,NA
+22483,SART Support Worker,Justice - Victim Services - Director Operations,"Whitehorse, YT, CA Y1A 2C6",2020-06-29,NA
+22517,Engineer in Training,Highways & Public Works - HwyEngineerPayrollSuspens,"Whitehorse, YT, CA Y1A 2C6",2020-06-15,NA
+21149,Community Mental Health Nurse,Health & Social Services - MWSU – Regional South – Watson Lake Hub,"Dawson City, YT, CA Y0B 1G0Watson Lake, YT, CA Y0A 1C0 (Primary)Whitehorse, YT, CA Y1A 2C6",2020-08-14,NA
+22555,Regional Program Manager,Highways & Public Works - HPW TEB Other Administration,"Whitehorse, YT, CA Y1A 2C6",2020-06-23,NA
+22567,Human Resource Consultant I&II,YG - Yukon Government,"Whitehorse, YT, CA Y1A 2C6",2020-09-04,NA
+22559,ATIPP Analyst,Environment - ENV-CS-IMT Management,"Whitehorse, YT, CA Y1A 2C6",2020-06-16,NA
+22581,Manager - Resident Care,"Health & Social Services - Continuing Care, Thomson Centre, Nursing","Whitehorse, YT, CA Y1A 2C6",2020-06-17,NA
+22583,Manager - Financial Operations,Justice - Finance & Administration,"Whitehorse, YT, CA Y1A 2C6",2020-06-03,NA
+22592,Aboriginal Programming Coordinator,Public Service Commission - Organizational Development,"Whitehorse, YT, CA Y1A 2C6",2020-06-17,NA
+22594,Procurement Advisor,Community Services - Infrastructure Development - Infrastructure Development - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-06-17,NA
+22623,Home Support Worker,"Health & Social Services - Intermediate and Community Care, Home Support - Home Care","Haines Junction, YT, CA Y0B 1L0",2020-06-18,NA
+22647,Primary Care Paramedic,Community Services - Protective Services - Emergency Medical Services - Emergency Medical Services-Whitehorse,"Whitehorse, YT, CA Y1A 2C6",2020-06-19,NA
+22660,Licensing Officer,Executive Council Office - Yukon Water Board Administration,"Whitehorse, YT, CA Y1A 2C6",2020-06-19,NA
+22666,"Child, Youth & Family Clinical Counsellor",Health & Social Services - MWSU – Regional South – Watson Lake Hub,"Carcross, YT, CA Y0B 1B0 (Primary)Carmacks, YT, CA Y0B 1C0Dawson City, YT, CA Y0B 1G0Haines Junction, YT, CA Y0B 1L0Teslin, YT, CA Y0A 1B0",2020-09-08,NA
+22235,Managing Counsel - Litigation Group,Justice - Litigation Group,"Whitehorse, YT, CA Y1A 2C6",2020-06-12,NA
+22696,Facilities and Material Management Administrator,Justice - Finance & Administration,"Whitehorse, YT, CA Y1A 2C6",2020-06-24,NA
+22692,Rehabilitation Assistant,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-06-24,NA
+22694,Land and Resource Planner,"Energy, Mines & Resources - Community Land Planning","Whitehorse, YT, CA Y1A 2C6",2020-06-26,NA
+22760,Screener,Health & Social Services - Continuing Care - Whistle Bend,"Whitehorse, YT, CA Y1A 2C6",2020-09-14,NA
+22752,Manager - Accommodation and Return to Work Services,"Public Service Commission - Health, Safety & Disabilty Mgt","Whitehorse, YT, CA Y1A 2C6",2020-07-06,NA
+22738,Aboriginal Programming Coordinator,Public Service Commission - Organizational Development,"Whitehorse, YT, CA Y1A 2C6",2020-06-26,NA
+22785,Project Manager,Environment - ENV-MC- SARU Assessment,"Whitehorse, YT, CA Y1A 2C6",2020-06-30,NA
+22110,Enterprise Geomatics Manager,Highways & Public Works - ICT - e-Services,"Whitehorse, YT, CA Y1A 2C6",2020-06-30,NA
+22830,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Teslin Health Centre","Teslin, YT, CA Y0A 1B0",2020-09-18,NA
+22813,Safety Coordinator,Highways & Public Works - RS - Building Dev Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-07-02,NA
+22826,Water Information Specialist,Environment - ENV-MC-OPS-Water Resources,"Whitehorse, YT, CA Y1A 2C6",2020-07-02,NA
+22853,Finance & Budget Analyst,Highways & Public Works - HPW Maintenance Administration,"Whitehorse, YT, CA Y1A 2C6",2020-07-03,NA
+22854,Director - Population and Public Health Evidence and Evaluation,Health & Social Services - Deputy Ministers Office,"Whitehorse, YT, CA Y1A 2C6",2020-07-17,NA
+22859,Manager - Policy and Compliance,Finance - Policy & Compliance,"Whitehorse, YT, CA Y1A 2C6",2020-07-06,NA
+22868,Corrections Officer I,Justice - Whitehorse Correctional Centre,"Whitehorse, YT, CA Y1A 2C6",2020-07-06,NA
+22879,Heavy Equipment Operator II,Highways & Public Works - HPW TMBHighways Payroll Suspense,"Beaver Creek, YT, CA Y0B 1A0",2020-07-06,NA
+22856,Project Control and Standards Technical Officer,Highways & Public Works - TD - Engineering Admin,"Whitehorse, YT, CA Y1A 2C6",2020-07-13,NA
+22911,Service Writer,SOA Fleet Management - FM - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-07-08,NA
+22914,Custodial Worker,"Health & Social Services - Community Nursing, Old Crow Health Centre","Old Crow, YT, CA Y0B 1N0",2020-07-08,NA
+22936,Infectious Disease Nurse,"Health & Social Services - Community Health, Yukon Communicable Disease Control","Whitehorse, YT, CA Y1A 2C6",2020-07-16,NA
+22952,Chief Legislative Counsel,Justice - Legal Counsel English,"Whitehorse, YT, CA Y1A 2C6",2020-07-16,NA
+22954,Community Safety & Policing Coordinator,"Justice - Director, Policing and Investigation","Whitehorse, YT, CA Y1A 2C6",2020-07-20,NA
+22965,Senior Communications Advisor,Public Service Commission - Corporate Human Resources and Diversity Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-13,NA
+22956,Family Support Worker,"Health & Social Services - F&CS Early Childhood Development, Family Supports","Whitehorse, YT, CA Y1A 2C6",2020-07-27,NA
+22989,Social Worker - Disability Services,Health & Social Services - Services To Persons with Disabilities - Activity Management,"Whitehorse, YT, CA Y1A 2C6",2020-07-15,NA
+22995,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Ross River Health Centre","Ross River, YT, CA Y0B 1S0",2020-09-30,NA
+23009,"Director, Fish and Wildlife",Environment - ENV-NR-Fish & Wildlife Director,"Whitehorse, YT, CA Y1A 2C6",2020-07-15,NA
+22156,Occupational Therapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-06-30,NA
+23020,Operations Assistant,Highways & Public Works - Northern Region,"Dawson City, YT, CA Y0B 1G0",2020-07-16,NA
+23042,Indigenous Guardians Liaison,Environment - ENV-NR-Parks Planning,"Whitehorse, YT, CA Y1A 2C6",2020-07-30,NA
+23050,Victim Services Worker,Justice - Victim Services - Operations,"Whitehorse, YT, CA Y1A 2C6",2020-07-27,NA
+23055,Victim Services Worker,Justice - Victim Services - Operations,"Watson Lake, YT, CA Y0A 1C0",2020-08-03,NA
+23061,Water and Wastewater Supervisor,Community Services - CS-CD-CO DC Plant,"Dawson City, YT, CA Y0B 1G0",2020-08-17,NA
+23064,Technical Services Librarian,Community Services - Technical Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-20,NA
+23121,Project Manager,Highways & Public Works - HPW TPB Planning Units,"Whitehorse, YT, CA Y1A 2C6",2020-07-22,NA
+23122,Business Improvement Analyst,Highways & Public Works - TPB Administration for HPW-Transportation Planning Branch,"Whitehorse, YT, CA Y1A 2C6",2020-07-22,NA
+22999,Telehealth and Program Assistant,"Health & Social Services - Community Health, Community Nursing Management","Whitehorse, YT, CA Y1A 2C6",2020-07-22,NA
+23100,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-07-22,NA
+22854,Director - Population and Public Health Evidence and Evaluation,Health & Social Services - Deputy Ministers Office,"Whitehorse, YT, CA Y1A 2C6",2020-07-29,NA
+23185,Facilities and Material Management Administrator,Environment - ENV-Client Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-27,NA
+23064,Technical Services Librarian,Community Services - Technical Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-22,NA
+23194,Access and Privacy Analyst,Highways & Public Works - ICT - Corporate Information Management - ATIPP,"Whitehorse, YT, CA Y1A 2C6",2020-07-28,NA
+22170,Home Care RN,"Health & Social Services - Intermediate and Community Care, Professional Services - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-07-14,NA
+23224,Translator,French Language Services Directorate,"Whitehorse, YT, CA Y1A 2C6",2020-08-14,NA
+23225,Dietary Aide,"Health & Social Services - Extended/Complex Care CRP, Food Services - Copper Ridge","Whitehorse, YT, CA Y1A 2C6",2020-07-29,NA
+23245,Residence Supervisor,Education - Student Accommodation,"Whitehorse, YT, CA Y1A 2C6",2020-07-30,NA
+23249,Occupational Therapist,Education - Student Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-30,NA
+23250,Educational Psychologist,Education - Student Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-30,NA
+23254,Internal Auditor - Senior Manager,Executive Council Office - Government Audit Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-31,NA
+23255,Internal Auditor (Intermediary),Executive Council Office - Government Audit Services,"Whitehorse, YT, CA Y1A 2C6",2020-07-31,NA
+23226,Director - Human Resources,YG - Yukon Government,"Whitehorse, YT, CA Y1A 2C6",2020-09-18,NA
+23270,Program Manager Asset Management,Highways & Public Works - HPW TPB Planning Units,"Whitehorse, YT, CA Y1A 2C6",2020-08-03,NA
+23314,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-08-04,NA
+23317,Metrics & Systems Architect,"Public Service Commission - People Metrics, Analytics & Projects","Whitehorse, YT, CA Y1A 2C6",2020-08-04,NA
+23354,Safety Trainer,Highways & Public Works - TM - Payroll Suspence,"Whitehorse, YT, CA Y1A 2C6",2020-08-06,NA
+23402,Communications and Social Marketing Analyst,Health & Social Services - Deputy Ministers Office,"Whitehorse, YT, CA Y1A 2C6",2020-08-07,NA
+23383,Cleaning Attendant,Highways & Public Works - Northern Region,"Old Crow, YT, CA Y0B 1N0",2020-10-23,NA
+23178,Corrections Officer I - Trainee,Justice - Whitehorse Correctional Centre,"Whitehorse, YT, CA Y1A 2C6",2020-08-10,NA
+23415,Home Support Worker,"Health & Social Services - Intermediate and Community Care, Home Support - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-08-10,NA
+23435,Licensed Practical Nurse,"Health & Social Services - Intermediate and Community Care, Admin - McDonald Lodge","Dawson City, YT, CA Y0B 1G0",2020-08-11,NA
+23439,LPN Supervisor,"Health & Social Services - Intermediate and Community Care, Admin - McDonald Lodge","Dawson City, YT, CA Y0B 1G0",2020-08-11,NA
+23429,Manager- Community Nursing,Health & Social Services - Community Nursing North,"Whitehorse, YT, CA Y1A 2C6",2020-08-11,NA
+23433,Cook,"Health & Social Services - Intermediate and Community Care, Admin - McDonald Lodge","Dawson City, YT, CA Y0B 1G0",2020-08-11,NA
+23245,Residence Supervisor,Education - Student Accommodation,"Whitehorse, YT, CA Y1A 2C6",2020-08-07,NA
+23472,Nursing Home Attendant,"Health & Social Services - Intermediate and Community Care, Admin - McDonald Lodge","Dawson City, YT, CA Y0B 1G0",2020-08-13,NA
+23484,Financial Officer,SOA Fleet Management - FM - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-08-14,NA
+23488,RN Supervisor,"Health & Social Services - Continuing Care, Thomson Centre, Nursing","Whitehorse, YT, CA Y1A 2C6",2020-08-14,NA
+23512,Airport Equipment Operator,Highways & Public Works - HPW TAB Maintenance,"Mayo, YT, CA Y0B 1M0",NA,NA
+23524,Residential Attendant,Health & Social Services - Mental Wellness and Substance Use – Client Services,"Whitehorse, YT, CA Y1A 2C6",2020-08-25,NA
+23575,Manager - Citizen Communications,Executive Council Office - Communications,"Whitehorse, YT, CA Y1A 2C6",2020-08-21,NA
+23592,Senior HRMS Analyst,Public Service Commission - Human Resources Management Systems,"Whitehorse, YT, CA Y1A 2C6",2020-08-24,NA
+23512,Airport Equipment Operator,Highways & Public Works - HPW TAB Maintenance,"Mayo, YT, CA Y0B 1M0",2020-12-31,NA
+23557,Transportation Planner,Highways & Public Works - HPW TPB Planning Units,"Whitehorse, YT, CA Y1A 2C6",2020-08-25,NA
+23613,Senior Public Engagement Advisor,Executive Council Office - Communications,"Whitehorse, YT, CA Y1A 2C6",2020-08-25,NA
+23617,"Operations Supervisor, FVA",SOA Fleet Management - FM - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-08-25,NA
+23618,Social Worker,Health & Social Services - Mental Wellness and Substance Use – Client Services,"Whitehorse, YT, CA Y1A 2C6",2020-08-26,NA
+23632,Senior Negotiator,Executive Council Office - Implementation & Reconciliation,"Whitehorse, YT, CA Y1A 2C6",2020-08-26,NA
+23429,Manager- Community Nursing,Health & Social Services - Community Nursing North,"Whitehorse, YT, CA Y1A 2C6",2020-08-18,NA
+23661,Nursing Home Attendant,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-09-14,NA
+23585,Translator - Reviser,French Language Services Directorate,"Whitehorse, YT, CA Y1A 2C6",2020-09-11,NA
+23666,Speech Language Pathologist,"Health & Social Services - Continuing Care, Thomson Centre - Therapies","Whitehorse, YT, CA Y1A 2C6",2020-11-13,NA
+23670,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-09-14,NA
+23672,Dental Hygienist,"Health & Social Services - Community Health, Dental Health","Whitehorse, YT, CA Y1A 2C6",2020-09-04,NA
+23680,Water Resources Technologist - Water Quality,Environment - ENV-MC-OPS-Water Quality,"Whitehorse, YT, CA Y1A 2C6",2020-08-31,NA
+23701,Maintenance Person,"Health & Social Services - Extended/Complex Care CRP, Facility Services","Whitehorse, YT, CA Y1A 2C6",2020-08-31,NA
+23774,Administrative Assistant,"Health & Social Services - Community Nursing, Destruction Bay Health Centre","Destruction Bay, YT, CA Y0B 1H0",2020-09-02,NA
+23782,Director - Policy - Planning and Communications,Economic Development - Policy & Planning,"Whitehorse, YT, CA Y1A 2C6",2020-09-03,NA
+23785,Recreation Therapy Assistant,"Health & Social Services - Continuing Care, Whistle Bend Care Facility, Therapies","Whitehorse, YT, CA Y1A 2C6",2020-09-03,NA
+23788,Primary Health Care Nurse Float,Health & Social Services - Community Nursing,"Whitehorse, YT, CA Y1A 2C6",2020-11-20,NA
+23828,Bilingual Custodial Worker - Evening,Education - Facilities & Transportation - Custodial,"Whitehorse, YT, CA Y1A 2C6",2020-09-04,NA
+23806,Major Projects Manager,Executive Council Office - ECO - Major Projects,"Whitehorse, YT, CA Y1A 2C6",2020-09-04,NA
+23804,Clinical Supervisor - Community Team (South),Health & Social Services - MWSU – Regional – Activity Management,"Whitehorse, YT, CA Y1A 2C6",2020-11-23,NA
+23857,Manager - Finance and Administration,Highways & Public Works - Finance,"Whitehorse, YT, CA Y1A 2C6",2020-09-09,NA
+23512,Airport Equipment Operator,Highways & Public Works - HPW TAB Maintenance,"Mayo, YT, CA Y0B 1M0",2020-08-25,NA
+23870,Custodial Worker (Evenings),Education - Facilities & Transportation - Custodial,"Whitehorse, YT, CA Y1A 2C6",2020-11-26,NA
+23880,Environmental Compliance Officer,Environment - ENV-MC-Compliance & Inspection,"Whitehorse, YT, CA Y1A 2C6",2020-09-10,NA
+23892,Senior Conservation Officer Enforcement and Compliance,Environment - ENV-MC-Mgr Enforce Compliance,"Whitehorse, YT, CA Y1A 2C6",2020-09-11,NA
+23898,IT Support Technician,Education - ITSS,"Whitehorse, YT, CA Y1A 2C6",2020-09-11,NA
+23870,Custodial Worker (Evenings),Education - Facilities & Transportation - Custodial,"Whitehorse, YT, CA Y1A 2C6",2020-09-10,NA
+23960,Project Officer,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-09-16,NA
+24010,Manager - Project Management Office,Highways & Public Works - ICT - Service Innovation & Support - FA,"Whitehorse, YT, CA Y1A 2C6",2020-09-17,NA
+23996,Licensed Practical Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-12-02,NA
+24003,Wildlife Harvest Specialist,Environment - ENV-NR-Wildlife Harvest Mgmnt,"Whitehorse, YT, CA Y1A 2C6",2020-09-17,NA
+24034,Coordinator - Family Information Liaison Unit,Justice - Victim Services - Operations,"Whitehorse, YT, CA Y1A 2C6",2020-09-18,NA
+24040,Applications Developer and Administrator,Environment - ENV-CS-IMT Technology,"Whitehorse, YT, CA Y1A 2C6",2020-09-18,NA
+24072,Executive Assistant,Executive Council Office - Aboriginal Relations Program Management,"Whitehorse, YT, CA Y1A 2C6",2020-09-21,NA
+24113,Project Manager,Highways & Public Works - HPW TPB Planning Units,"Whitehorse, YT, CA Y1A 2C6",2020-09-23,NA
+24060,IT K12 Business Analyst,Education - ITSS,"Whitehorse, YT, CA Y1A 2C6",2020-09-22,NA
+24093,Domestic Aide,"Health & Social Services - Intermediate and Community Care, Admin - McDonald Lodge","Dawson City, YT, CA Y0B 1G0",2020-09-22,NA
+24110,Director and Chief Negotiator,Justice - Negotiations of AJA,"Whitehorse, YT, CA Y1A 2C6",2020-09-22,NA
+24134,Energy Technical Specialist,Highways & Public Works - RS - Building Dev Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-09-30,NA
+24143,Medical Office Assistant,"Health & Social Services - Community Health, Yukon Communicable Disease Control","Whitehorse, YT, CA Y1A 2C6",2020-09-23,NA
+24094,Business Analyst,Justice - Systems Administration,"Whitehorse, YT, CA Y1A 2C6",2020-09-23,NA
+24117,RN Supervisor,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-10-09,NA
+24119,Home Support Worker,"Health & Social Services - Intermediate and Community Care, Home Support - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-09-23,NA
+24131,Infection Control Coordinator,"Health & Social Services - Community Health, Yukon Communicable Disease Control","Whitehorse, YT, CA Y1A 2C6",2020-09-30,NA
+24148,Energy and Infrastructure Analyst,Highways & Public Works - RS - Building Dev Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-10-01,NA
+24178,Senior Pharmacy Advisor,"Health & Social Services - Health Insurance, Activity Management","Whitehorse, YT, CA Y1A 2C6",2020-09-25,NA
+24215,Community Responder,Community Services - Protective Services - Emergency Medical Services - Emergency Medical Services-Communities,"Watson Lake, YT, CA Y0A 1C0",2020-09-28,NA
+24227,Administrative Assistant,YG - Yukon Government,"Beaver Creek, YT, CA Y0B 1A0Carcross, YT, CA Y0B 1B0Carmacks, YT, CA Y0B 1C0Dawson City, YT, CA Y0B 1G0Faro, YT, CA Y0B 1K0Haines Junction, YT, CA Y0B 1L0Mayo, YT, CA Y0B 1M0Old Crow, YT, CA Y0B 1N0Pelly Crossing, YT, CA Y0B 1P0Ross River, YT, CA Y0B 1S0Teslin, YT, CA Y0A 1B0Watson Lake, YT, CA Y0A 1C0Whitehorse, YT, CA Y1A 2C6 (Primary)",2020-12-14,NA
+24180,Manager - Realty and Space Planning,Highways & Public Works - Buildings & Security,"Whitehorse, YT, CA Y1A 2C6",2020-09-28,NA
+24223,Community Recreation Consultant,Community Services - Community Development - Sports & Recreation - Community Recreation,"Whitehorse, YT, CA Y1A 2C6",2020-09-28,NA
+24240,Policy Analyst,Health & Social Services - Policy and Program Support,"Whitehorse, YT, CA Y1A 2C6",2020-09-29,NA
+24221,Mining Lands Officer,"Energy, Mines & Resources - Mining Lands","Whitehorse, YT, CA Y1A 2C6",2020-09-29,NA
+24261,Administrative Assistant,"Health & Social Services - Community Nursing, Teslin Health Centre","Teslin, YT, CA Y0A 1B0",2020-09-30,NA
+24272,Primary Health Care Nurse,"Health & Social Services - Community Nursing, Ross River Health Centre","Ross River, YT, CA Y0B 1S0",2020-12-16,NA
+24274,Cleaning Attendant,Highways & Public Works - Northern Region,"Dawson City, YT, CA Y0B 1G0Haines Junction, YT, CA Y0B 1L0Mayo, YT, CA Y0B 1M0Old Crow, YT, CA Y0B 1N0Pelly Crossing, YT, CA Y0B 1P0 (Primary)Watson Lake, YT, CA Y0A 1C0",2020-12-16,NA
+24207,Mining Administration Officer,"Energy, Mines & Resources - Mining Lands","Whitehorse, YT, CA Y1A 2C6",2020-10-01,NA
+24271,Director - Community Relations and Engagement,Education - Communications Administration,"Whitehorse, YT, CA Y1A 2C6",2020-10-08,NA
+24288,Administrative Assistant,Executive Council Office - Office of the Commissioner,"Whitehorse, YT, CA Y1A 2C6",2020-10-01,NA
+24351,Occupational Therapist,Education - Student Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-10-05,NA
+24352,Mining Technologist,"Energy, Mines & Resources - EMR-MM-Major Mines","Whitehorse, YT, CA Y1A 2C6",2020-10-05,NA
+24371,Payroll / Finance Officer,Public Service Commission - HR Service Centre-Payroll,"Whitehorse, YT, CA Y1A 2C6",2020-10-05,NA
+24358,Internal Auditor (Junior),Executive Council Office - Government Audit Services,"Whitehorse, YT, CA Y1A 2C6",2020-10-06,NA
+24335,Chief Mine Engineer,"Energy, Mines & Resources - EMR-MM-Major Mines","Whitehorse, YT, CA Y1A 2C6",2020-10-14,NA
+24440,Supervisor - Health Services,Justice - Whitehorse Corrections Centre,"Whitehorse, YT, CA Y1A 2C6",2020-10-07,NA
+24419,Information Management Lead,Health & Social Services - Program Management,"Whitehorse, YT, CA Y1A 2C6",2020-10-07,NA
+24433,Supply Chain Assistant,"Health & Social Services - Continuing Care, Admin Copper Ridge Place","Whitehorse, YT, CA Y1A 2C6",2020-10-07,NA
+24461,Cook,"Health & Social Services - Extended/Complex Care CRP, Food Services - Copper Ridge","Whitehorse, YT, CA Y1A 2C6",2020-10-08,NA
+24462,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-10-08,NA
+24506,Office Coordinator,"Executive Council Office - Finance, Administration & Systems","Whitehorse, YT, CA Y1A 2C6",2020-10-09,NA
+24464,Senior Energy Advisor,"Energy, Mines & Resources - Energy Solutions Centre","Whitehorse, YT, CA Y1A 2C6",2020-10-09,NA
+24486,Manager - Strategic Initiatives,Highways & Public Works - HPW TPB Planning Units,"Whitehorse, YT, CA Y1A 2C6",2020-10-09,NA
+24178,Senior Pharmacy Advisor,"Health & Social Services - Health Insurance, Activity Management","Whitehorse, YT, CA Y1A 2C6",2020-10-09,NA
+24493,Support Worker,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-10-20,NA
+24531,Community Health Nurse - Panorama,Health & Social Services - Panorama,"Whitehorse, YT, CA Y1A 2C6",2020-10-13,NA
+24494,Airport Supervisor,Highways & Public Works - HPW TAB Maintenance,"Old Crow, YT, CA Y0B 1N0",2020-12-28,NA
+24131,Infection Control Coordinator,"Health & Social Services - Community Health, Yukon Communicable Disease Control","Whitehorse, YT, CA Y1A 2C6",2020-10-06,NA
+24584,Occupational Health and Safety Leader,"Health & Social Services - Continuing Care, Program Management","Whitehorse, YT, CA Y1A 2C6",2020-10-14,NA
+24563,Manager - Systems and Information Management,Justice - Systems Administration,"Whitehorse, YT, CA Y1A 2C6",2020-10-14,NA
+24556,Physiotherapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-10-23,NA
+24587,Accounting Clerk,Finance - Financial Accounting,"Whitehorse, YT, CA Y1A 2C6",2020-10-15,NA
+24597,Nursing Home Attendant,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-11-01,NA
+24640,Heavy Equipment Operator I,Highways & Public Works - TM - Payroll Suspence,"Haines Junction, YT, CA Y0B 1L0",2020-10-20,NA
+24642,Community Health Nurse,"Health & Social Services - Community Nursing, Watson Lake Health Centre","Watson Lake, YT, CA Y0A 1C0",2021-01-05,NA
+24645,Community Health Nurse,"Health & Social Services - Community Nursing, Dawson City Health Centre","Dawson City, YT, CA Y0B 1G0",2021-01-05,NA
+24636,Heavy Equipment Operator II,Highways & Public Works - TM - Payroll Suspence,"Blanchard, YT, CA Y0B 1L0",2020-10-20,NA
+24665,Primary Health Care Nurse Float,Health & Social Services - Community Nursing,"Carmacks, YT, CA Y0B 1C0Faro, YT, CA Y0B 1K0Mayo, YT, CA Y0B 1M0Old Crow, YT, CA Y0B 1N0Teslin, YT, CA Y0A 1B0Whitehorse, YT, CA Y1A 2C6 (Primary)",2021-01-06,NA
+24666,Financial Advisor,Highways & Public Works - Finance,"Whitehorse, YT, CA Y1A 2C6",2020-10-21,NA
+24675,Senior Negotiator,"Energy, Mines & Resources - EMR - Client Services and Partnership","Whitehorse, YT, CA Y1A 2C6",2020-10-22,NA
+24712,Mental Wellness & Substance Use Counsellor - Community,Health & Social Services - MWSU – Regional South – Watson Lake Hub,"Carmacks, YT, CA Y0B 1C0Watson Lake, YT, CA Y0A 1C0 (Primary)",2020-10-29,NA
+24713,Primary Health Care Nurse,"Health & Social Services - Community Nursing, Teslin Health Centre","Teslin, YT, CA Y0A 1B0",2021-01-08,NA
+24738,First Nations Liaison Officer,Justice - Whitehorse Corrections Centre,"Whitehorse, YT, CA Y1A 2C6",2020-10-23,NA
+24751,Supervisor - Home Care Interdisciplinary Team,"Health & Social Services - Intermediate and Community Care, Professional Services - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-10-26,NA
+24748,Community Paramedic,Community Services - Protective Services - Emergency Medical Services - Emergency Medical Services-Communities,"Dawson City, YT, CA Y0B 1G0",2020-10-26,NA
+24753,Community Health Nurse Mobile,"Health & Social Services - Community Nursing, Faro Health Centre","Faro, YT, CA Y0B 1K0",2021-01-11,NA
+24786,Corrections Officer I - Trainee,Justice - Whitehorse Correctional Centre,"Whitehorse, YT, CA Y1A 2C6",2020-10-27,NA
+24793,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Teslin Health Centre","Teslin, YT, CA Y0A 1B0",2021-01-13,NA
+24695,Healthy Families Worker,"Health & Social Services - Early Childhood Development, Child Care Services - Healthy Families","Whitehorse, YT, CA Y1A 2C6",2020-10-28,NA
+24820,Director - First Nations Relations & Capacity Development,Executive Council Office - FN Relations & Capacity Development,"Whitehorse, YT, CA Y1A 2C6",2020-10-28,NA
+24827,Financial Assistant - Community Nursing,"Health & Social Services - Community Health, Community Nursing Management","Whitehorse, YT, CA Y1A 2C6",2020-10-28,NA
+24850,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-10-29,NA
+24879,Access and Privacy Coordinator,Health & Social Services - E-health Management,"Whitehorse, YT, CA Y1A 2C6",2020-11-06,NA
+24894,Admission / Assessment Coordinator,"Health & Social Services - Intermediate and Community Care, Admin - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-10-30,NA
+24891,French Pedagogical Consultant,Education - Learning Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-10-29,NA
+24921,Environmental Health Officer,"Health & Social Services - Community Health, Environmental Health","Whitehorse, YT, CA Y1A 2C6",2020-11-02,NA
+24924,Case Manager,Workers Compensation - WCB - Claimant Services,"Whitehorse, YT, CA Y1A 2C6",2020-11-02,NA
+24933,Whitehorse Librarian,Community Services - Whitehorse Public Library,"Whitehorse, YT, CA Y1A 2C6",2020-11-06,NA
+24937,Building - Plumbing Inspector,Community Services - Protective Services - Building And Life Safety - Building Safety,"Whitehorse, YT, CA Y1A 2C6",2020-11-02,NA
+24909,Director - Finance,Environment - Financial Services,"Whitehorse, YT, CA Y1A 2C6",2020-11-02,NA
+24911,Health & Safety Training Officer,"Public Service Commission - Employee Relations - Health, Safety & Well Being","Whitehorse, YT, CA Y1A 2C6",2020-11-02,NA
+24910,"Child, Youth & Family Clinical Counsellor",Health & Social Services - MWSU – Regional South – Watson Lake Hub,"Carmacks, YT, CA Y0B 1C0Watson Lake, YT, CA Y0A 1C0 (Primary)",2021-01-20,NA
+24941,Environmental Assessment Analyst,Environment - ENV-MC-Environmental Assess,"Whitehorse, YT, CA Y1A 2C6",2020-11-03,NA
+24944,Electrical Inspector,Community Services - Protective Services - Building And Life Safety - Building Safety,"Whitehorse, YT, CA Y1A 2C6",2020-11-03,NA
+24969,Fleet Coordinator,SOA Fleet Management - FM - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-11-04,NA
+24977,Community Liaison Coordinator,"Health & Social Services - Intermediate and Community Care, Admin - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-11-04,NA
+24987,Assistant Deputy Minister,YG - Yukon Government,"Whitehorse, YT, CA Y1A 2C6",2020-11-12,NA
+24991,Park Attendant,Environment - ENV-NR-Parks Compliance Checks,"Haines Junction, YT, CA Y0B 1L0",2020-11-05,NA
+24998,Manager - Finance,"Yukon Housing Corporation - Finance, Systems & Administration","Whitehorse, YT, CA Y1A 2C6",2020-11-05,NA
+24996,Clinical Counsellor - Mental Wellness & Substance Use,Health & Social Services - Mental Wellness and Substance Use – Client Services,"Whitehorse, YT, CA Y1A 2C6",2020-11-05,NA
+25005,Manager - Correctional Services,Justice - Whitehorse Correctional Centre,"Whitehorse, YT, CA Y1A 2C6",2020-11-06,NA
+24997,Environmental Coordinator,Highways & Public Works - HPW TEB Payroll Suspense,"Whitehorse, YT, CA Y1A 2C6",2020-11-12,NA
+25001,Board Certified Behavior Analyst,Health & Social Services - Services To Persons with Disabilities - Activity Management,"Whitehorse, YT, CA Y1A 2C6",2020-11-09,NA
+25035,Home Support Worker,"Health & Social Services - Intermediate and Community Care, Home Support - Home Care","Carmacks, YT, CA Y0B 1C0",2020-11-09,NA
+24013,Youth Engagement Worker,"Health & Social Services - F&CS Residential Services, Residential Youth Treatment","Whitehorse, YT, CA Y1A 2C6",2020-11-06,NA
+25040,Project Geologist,"Energy, Mines & Resources - Yukon Geological Survey","Whitehorse, YT, CA Y1A 2C6",2020-11-10,NA
+25086,Speech and Language Pathologist,Education - Student Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-11-12,NA
+25092,Domestic Aide,"Health & Social Services - Extended/Complex Care CRP, Facility Services","Whitehorse, YT, CA Y1A 2C6",2020-11-13,NA
+25111,Regional Program Manager,Highways & Public Works - HPW TEB Payroll Suspense,"Whitehorse, YT, CA Y1A 2C6",2020-11-13,NA
+24680,Community Plant Operator,Community Services - Community Development - Community Operations - Administration,"Whitehorse, YT, CA Y1A 2C6",2020-11-16,NA
+25082,Human Resource Consultant I&II,YG - Yukon Government,"Whitehorse, YT, CA Y1A 2C6",2021-01-29,NA
+24921,Environmental Health Officer,"Health & Social Services - Community Health, Environmental Health","Whitehorse, YT, CA Y1A 2C6",2020-11-16,NA
+25145,Manager - Planning and Programming,Highways & Public Works - Transport Capital Planning,"Whitehorse, YT, CA Y1A 2C6",2020-11-17,NA
+25134,Library Clerk - WES,Education - School Clerical Support,"Whitehorse, YT, CA Y1A 2C6",2020-11-18,NA
+25180,Manager - Integrated Restorative Justice,Justice - ADM's Office,"Whitehorse, YT, CA Y1A 2C6",2020-11-19,NA
+25158,First Nations Liaison Worker,"Health & Social Services - Continuing Care, Thomson Centre - Therapies","Whitehorse, YT, CA Y1A 2C6",2020-11-19,NA
+25181,Senior Advisor,Executive Council Office - Implementation & Reconciliation,"Whitehorse, YT, CA Y1A 2C6",2020-11-20,NA
+25185,Regional Fish and Wildlife Technician,Environment - ENV-NR-Wildlife Harvest Mgmnt,"Dawson City, YT, CA Y0B 1G0",2020-11-23,NA
+25228,Social Worker,"Health & Social Services - Family and Child Services, Child Protection","Whitehorse, YT, CA Y1A 2C6",2020-11-23,NA
+25242,Human Resource Consultant III,YG - Yukon Government,"Whitehorse, YT, CA Y1A 2C6",2020-11-30,NA
+25234,Program Manager Asset Management,Highways & Public Works - HPW TPB Planning Units,"Whitehorse, YT, CA Y1A 2C6",2020-11-24,NA
+25086,Speech and Language Pathologist,Education - Student Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-11-19,NA
+25001,Board Certified Behavior Analyst,Health & Social Services - Services To Persons with Disabilities - Activity Management,"Whitehorse, YT, CA Y1A 2C6",2020-11-16,NA
+25301,Emergency Response Officer,Community Services - Protective Services - Fire Management - Pre-Suppression,"Whitehorse, YT, CA Y1A 2C6",2020-11-27,NA
+25303,Clinical Educator,"Health & Social Services - Continuing Care, Program Management","Whitehorse, YT, CA Y1A 2C6",2020-11-25,NA
+25305,Senior Negotiator,Justice - Negotiations of AJA,"Whitehorse, YT, CA Y1A 2C6",2020-12-02,NA
+25307,Assistant Negotiator,Justice - Negotiations of AJA,"Whitehorse, YT, CA Y1A 2C6",2020-12-02,NA
+25268,Licensing Officer,Executive Council Office - Yukon Water Board Administration,"Whitehorse, YT, CA Y1A 2C6",2020-11-25,NA
+25281,Primary Health Care Nurse Float,Health & Social Services - Community Nursing,"Whitehorse, YT, CA Y1A 2C6",2021-02-10,NA
+25225,Subdivision Land Use Planner,"Energy, Mines & Resources - Community Land Planning","Whitehorse, YT, CA Y1A 2C6",2020-11-25,NA
+25320,Emergency Response Officer,Community Services - Protective Services - Fire Management - Pre-Suppression,"Whitehorse, YT, CA Y1A 2C6",2020-11-27,NA
+24713,Primary Health Care Nurse,"Health & Social Services - Community Nursing, Teslin Health Centre","Teslin, YT, CA Y0A 1B0",2020-11-12,NA
+25355,Regional Protection Officer,Community Services - Protective Services - Fire Management - Pre-Suppression,"Teslin, YT, CA Y0A 1B0 (Primary)Watson Lake, YT, CA Y0A 1C0",2020-11-27,NA
+24274,Cleaning Attendant,Highways & Public Works - Northern Region,"Dawson City, YT, CA Y0B 1G0Haines Junction, YT, CA Y0B 1L0Mayo, YT, CA Y0B 1M0Old Crow, YT, CA Y0B 1N0Pelly Crossing, YT, CA Y0B 1P0 (Primary)Watson Lake, YT, CA Y0A 1C0",2020-11-14,NA
+25384,Geomatics Consultant,Highways & Public Works - ICT - e-Services,"Whitehorse, YT, CA Y1A 2C6",2020-11-30,NA
+25193,GRADCORPS: Mining Lands Officer,"Energy, Mines & Resources - Mining Lands","Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25194,GRADCORPS: Assistant Natural Resources Officer,"Energy, Mines & Resources - Compliance Monitoring & Inspections Operations","Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25206,GRADCORPS: Forest Management Technician,"Energy, Mines & Resources - Forest Management Operations","Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25377,GRADCORPS: Junior Analyst - Energy,Highways & Public Works - Strategic Initiatives,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25378,GRADCORPS: Junior Analyst - Infrastructure,Highways & Public Works - Strategic Initiatives,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25379,GRADCORPS: Business Analyst/Data Manager,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25183,GRADCORPS: Assessor,Community Services - Corp Policy & Consumer Affairs - Property Assessment And Taxation - Assessment And Taxation,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25187,GRADCORPS: Spatial Database Administrator,Community Services - Protective Services - Fire Management - Pre-Suppression,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25188,GRADCORPS: Records / Information Management Advisor,Community Services - Corporate Services - Finance - Administration,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25191,GRADCORPS: Human Resource Service Representative,Public Service Commission - Human Resources Shared Services,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25192,GRADCORPS: Land and Resource Planner,"Energy, Mines & Resources - Community Land Planning","Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25374,GRADCORPS: Mitigation Analyst (Climate Change),Environment - ENV-Yukon Climate Chng Secretariate,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25407,Project Manager,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2021-02-17,NA
+25190,Records Analyst,Highways & Public Works - ICT - Corpate Infformation Management- Recorded Information Management,"Whitehorse, YT, CA Y1A 2C6",2020-12-08,NA
+25385,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-12-17,NA
+25388,GRADCORPS: Financial Advisor,Highways & Public Works - Finance,"Whitehorse, YT, CA Y1A 2C6",2021-01-04,NA
+25417,Human Resource Service Representative,Public Service Commission - Human Resources Shared Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-02,NA
+25422,"Manager, Labour Relations",Public Service Commission - Employee Relations - Labour Relations,"Whitehorse, YT, CA Y1A 2C6",2020-12-02,NA
+25439,Nursing Home Attendant,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-12-19,NA
+25451,Probation Officer,Justice - Yukon Community Corrections,"Whitehorse, YT, CA Y1A 2C6",2020-12-03,NA
+25469,RN Supervisor,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-12-04,NA
+25449,SART Support Worker,Justice - Victim Services - Director Ops,"Whitehorse, YT, CA Y1A 2C6",2020-12-18,NA
+25470,Speech Language Pathologist,"Health & Social Services - Continuing Care, Thomson Centre - Therapies","Whitehorse, YT, CA Y1A 2C6",2021-02-22,NA
+25495,Chief Operation Officer,Yukon Liquor Corporation - Purchasing & Distribution,"Whitehorse, YT, CA Y1A 2C6",2020-12-08,NA
+25525,Cook,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-15,NA
+25527,Cook Supervisor,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-15,NA
+25490,Community Health Nurse - Pandemic,"Health & Social Services - Community Health, Yukon Communicable Disease Control","Whitehorse, YT, CA Y1A 2C6",2021-02-24,NA
+24793,Primary Health Care Nurse In Charge,"Health & Social Services - Community Nursing, Teslin Health Centre","Teslin, YT, CA Y0A 1B0",2020-11-24,NA
+25556,Bilingual Education Consultant,Education - Learning Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-10,NA
+25570,Staffing Consultant,Public Service Commission - Staffing Management & Solutions,"Whitehorse, YT, CA Y1A 2C6",2020-12-10,NA
+25573,Dietary Aide,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-17,NA
+25617,Tourism Development Advisor,Tourism & Culture - Industry Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-15,NA
+25631,Clinical Supervisor - Community Team (South),Health & Social Services - MWSU – Regional – Activity Management,"Whitehorse, YT, CA Y1A 2C6",2021-03-01,NA
+25638,Nurse Practitioner,"Health & Social Services - Community Nursing, Carmacks Health Centre","Carmacks, YT, CA Y0B 1C0 (Primary)Teslin, YT, CA Y0A 1B0",2021-03-02,NA
+25646,Litigation Lawyer,Justice - Litigation Group,"Whitehorse, YT, CA Y1A 2C6",2020-12-17,NA
+25648,Payroll / Finance Officer,Public Service Commission - HR Service Centre-Payroll,"Whitehorse, YT, CA Y1A 2C6",2020-12-17,NA
+25653,Physiotherapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2020-12-17,NA
+25531,Security Officer,"Health & Social Services - Extended/Complex Care CRP, Facility Services","Whitehorse, YT, CA Y1A 2C6",2020-12-17,NA
+25469,RN Supervisor,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2020-12-18,NA
+25719,"Social Worker, WES",Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-31,NA
+25697,Head of Major Mines,"Energy, Mines & Resources - CMI Program Standards, Planning and Monitoring","Whitehorse, YT, CA Y1A 2C6",2020-12-31,NA
+25698,Head of Operational Standards and Training,"Energy, Mines & Resources - CMI Program Standards, Planning and Monitoring","Whitehorse, YT, CA Y1A 2C6",2020-12-31,NA
+25684,Occupational Therapist,Education - Student Support Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-31,NA
+25716,"Outreach Support Worker, WES",Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2020-12-31,NA
+25707,Supervisor - Recreation and Psycho-Social Services ( Long Term Care Homes ),"Health & Social Services - Extended/Complex Care CRP, Therapies","Whitehorse, YT, CA Y1A 2C6",2020-12-23,NA
+25732,Heavy Equipment Mechanic,Highways & Public Works - TM - Garage Operations Trade,"Whitehorse, YT, CA Y1A 2C6",2020-12-23,NA
+25758,Community Housing Manager - Territorial Representative,Yukon Housing Corporation - Housing Operations,"Teslin, YT, CA Y0A 1B0",2020-12-24,NA
+25769,Communications Analyst,Justice - Policy,"Whitehorse, YT, CA Y1A 2C6",2020-12-29,NA
+25823,Regional Biologist,Environment - Regional Operations Liard,"Dawson City, YT, CA Y0B 1G0Watson Lake, YT, CA Y0A 1C0 (Primary)",2021-01-15,NA
+25653,Physiotherapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2021-01-08,NA
+25791,Environmental Education Specialist,Environment - Habitat & Planning,"Whitehorse, YT, CA Y1A 2C6",2021-01-11,NA
+25771,Territorial Epidemiologist,"Health & Social Services - Community Health, Activity Management","Whitehorse, YT, CA Y1A 2C6",2021-01-11,NA
+25849,Supervisor - Family Services,"Health & Social Services - Family and Child Services, Child Protection","Whitehorse, YT, CA Y1A 2C6",2021-01-13,NA
+25870,Heavy Equipment Mechanic,Highways & Public Works - TM - Garage Operations Trade,"Dawson City, YT, CA Y0B 1G0",2021-03-19,NA
+25719,"Social Worker, WES",Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2021-01-08,NA
+25407,Project Manager,Highways & Public Works - Capital Development Overhead,"Whitehorse, YT, CA Y1A 2C6",2020-12-18,NA
+25883,First Nations Liaison Worker,"Health & Social Services - Continuing Care, Thomson Centre - Therapies","Whitehorse, YT, CA Y1A 2C6",2021-01-08,NA
+25707,Supervisor - Recreation and Psycho-Social Services ( Long Term Care Homes ),"Health & Social Services - Extended/Complex Care CRP, Therapies","Whitehorse, YT, CA Y1A 2C6",2020-12-31,NA
+25469,RN Supervisor,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2021-01-08,NA
+25914,Manager - Resident Care,"Health & Social Services - Extended/Complex Care Copper Ridge Place, EC Seniors, EC Adult, Special Care","Whitehorse, YT, CA Y1A 2C6",2021-01-15,NA
+25871,Director - Care & Community,"Health & Social Services - Intermediate and Community Care, Admin - Home Care","Whitehorse, YT, CA Y1A 2C6",2021-01-07,NA
+25920,Superintendent,Justice - Whitehorse Corrections Centre,"Whitehorse, YT, CA Y1A 2C6",2021-01-08,NA
+25919,Lands Officer,"Energy, Mines & Resources - Lands Client Services","Whitehorse, YT, CA Y1A 2C6",2021-01-11,NA
+25732,Heavy Equipment Mechanic,Highways & Public Works - TM - Garage Operations Trade,"Whitehorse, YT, CA Y1A 2C6",2021-01-08,NA
+25936,Development Forester,"Energy, Mines & Resources - Forest Management Planning & Development","Whitehorse, YT, CA Y1A 2C6",2021-01-25,NA
+25955,Occupational Therapist,"Health & Social Services - Intermediate and Community Care, Therapies - Home Care","Whitehorse, YT, CA Y1A 2C6",2021-03-26,NA
+25988,Support Worker,Health & Social Services - Housing and Community Outreach Services,"Whitehorse, YT, CA Y1A 2C6",2021-01-11,NA
+26002,Legal Administrative Assistant,Justice - Court Services Administration,"Whitehorse, YT, CA Y1A 2C6",2021-01-13,NA
+26010,Clinical Coordinator,"Health & Social Services - Community Health, Activity Management","Whitehorse, YT, CA Y1A 2C6",2021-01-18,NA
+24645,Community Health Nurse,"Health & Social Services - Community Nursing, Dawson City Health Centre","Dawson City, YT, CA Y0B 1G0",2020-12-29,NA
+26019,Corrections Officer I - Trainee,Justice - Whitehorse Correctional Centre,"Whitehorse, YT, CA Y1A 2C6",2021-01-14,2020-12-31
+26021,Child and Youth Support Worker,"Health & Social Services - F&CS Early Childhood Development, Family Supports","Whitehorse, YT, CA Y1A 2C6",2021-01-14,2020-12-31
+26023,Registered Nurse,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2021-01-29,2020-12-31
+26024,Nursing Home Attendant,Health & Social Services - Continuing Care,"Whitehorse, YT, CA Y1A 2C6",2021-01-29,2020-12-31
+26017,Youth Engagement Worker,"Health & Social Services - F&CS Residential Services, Residential Youth Treatment","Whitehorse, YT, CA Y1A 2C6",2021-03-30,2020-12-31
+26039,Recreation Therapy Assistant,"Health & Social Services - Continuing Care, Whistle Bend Care Facility, Therapies","Whitehorse, YT, CA Y1A 2C6",2021-03-31,2021-01-01
+26033,Conflict Management Practitioner,Public Service Commission - Respectful Workplace Office,"Whitehorse, YT, CA Y1A 2C6",2021-01-15,2021-01-01
+26034,Domestic Aide,"Health & Social Services - Continuing Care, Thomson Centre - Facility Services","Whitehorse, YT, CA Y1A 2C6",2021-01-15,2021-01-01
